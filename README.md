@@ -22,6 +22,8 @@ Este projeto foi desenvolvido em Power BI com o objetivo de transformar dados de
 
 ## 📊 Dashboard
 
+> ![Dashboard Executivo de Vendas](imagens/Dashboard.jpg)
+
 ## 🔍 Principais Insights
 
 - A categoria **Technology** apresentou a maior receita.
